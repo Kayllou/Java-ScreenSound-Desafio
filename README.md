@@ -1,4 +1,4 @@
-                                               Tentativa de modelar como ficaria a aplicação
+
                                                
 <img width="2490" height="478" alt="Captura de tela 2025-11-09 001202" src="https://github.com/user-attachments/assets/0cf6fbd2-38af-477f-90de-549c91aada8e" />
 
